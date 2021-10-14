@@ -62,7 +62,7 @@
 
 ![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/images/9.png)
 
-## Подключение к облачной базе.
+## Подключение к облачной базе
 
 5\. После того, как **DBeaver** был установлен, запускаете его
 
@@ -115,3 +115,43 @@
 6.5. Что бы переключаться между схемами, можно использовать верхнее меню. В левом меню выбираете подключение (если их несколько), в правом меню выбираете схему, к которой будете писать запросы.
 
 ![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/images/19.png)
+
+## Восстановление бэкапа с данными в свою схему
+
+7\. Нужно скачать дамп учебной базы данных:
+
+![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/dump.sql)
+
+7.1. Открываете файл в любом текстовом редакторе (блокнот будет отличным вариантом) и выбираете "Заменить". В поле "Что заменить" копируете фразу **ЗАМЕНИТЬ_НА_НАЗВАНИЕ_СВОЕЙ_СХЕМЫ**, в поле чем заменить - название схемы, которую создали. Нажимаете **"Заменить все"**.
+
+![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/images/20.png)
+
+7.2. Если все сделали верно, то в файле будет отображаться нужное название. После сохраняете файл и закрываете его.
+
+![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/images/21.png)
+
+7.3. Открываете DBeaver, раскрываете подключение к облачной машине, нажимаете правую конпку мыши на названии базы данных *postgres*, выбираете "Инструменты" -> "Выполнить скрипт".
+
+![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/images/22.png)
+
+7.4. В поле "Входной файл" выбираете измененный дамп файл и нажимаете "Старт"
+
+![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/images/23.png)
+
+7.5. Начнется процесс восстановления данных, который может занять до 15 минут. Можно выпить чай / кофе ;)
+
+![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/images/24.png)
+
+7.6. По окончании восстановления появится следующее окно, нажимаете "Ок".
+
+![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/images/25.png)
+
+7.7. Если окно "Выполнить скрипт" автоматически не закроется, то нажимаете "Отмена"
+
+![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/images/26.png)
+
+7.8. Раскройте схемы, нажмите правую кнопку мыши на "Схемы" и выберите "Обновить". После этого можете открыть редактор SQL к данным в вашей схеме и приступать к написанию запросов.
+
+![](https://github.com/NKhashchanov/sql-materials/blob/main/sqlfree/images/27.png)
+
+### Успешного обучения!
