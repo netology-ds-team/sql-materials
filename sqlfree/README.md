@@ -120,6 +120,10 @@
 
 7\. Нужно скачать [дамп учебной базы данных](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/dump.sql)
 
+Нажимаете правую кнопку мыши на "View raw" и выбираете "Сохранить ссылку как"
+
+![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/images/28.png)
+
 7.1. Открываете файл в любом текстовом редакторе (блокнот будет отличным вариантом) и выбираете "Заменить". В поле "Что заменить" копируете фразу **ЗАМЕНИТЬ_НА_НАЗВАНИЕ_СВОЕЙ_СХЕМЫ**, в поле чем заменить - название схемы, которую создали. Нажимаете **"Заменить все"**.
 
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/images/20.png)
