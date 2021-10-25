@@ -24,19 +24,15 @@ http://www.iodbc.org/dataspace/doc/iodbc/wiki/iodbcWiki/Downloads#Stable%20Versi
 
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/3.png)
 
-4. Нажимаете Далее
+4. Нажимаете Установить.
 
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/4.png)
 
-5. Нажимаете Установить.
+5. Нажимаете Завершить.
 
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/5.png)
 
-6. Нажимаете Завершить.
-
-![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/6.png)
-
-7. После этого нажимаете **WIN + R** и копируете команду: 
+6. После этого нажимаете **WIN + R** и копируете команду: 
 
 Если у Вас установлен Excel 64 бит  ```%windir%\syswow64\odbcad32.exe```
 
@@ -44,13 +40,13 @@ http://www.iodbc.org/dataspace/doc/iodbc/wiki/iodbcWiki/Downloads#Stable%20Versi
 
 Откроется окно Администратора источника данных ODBC. Нажимаете Добавить, откроется окно Создания нового источника данных.
 
+![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/6.png)
+
+7. Опускаетесь вниз и выбираете PostgreSQL Unicode, нажимаете Готово.
+
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/7.png)
 
-8. Опускаетесь вниз и выбираете PostgreSQL Unicode, нажимаете Готово.
-
-![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/8.png)
-
-9. Заполняете данные согласно таблицы, что бы настроить подключение к облачной учебной Базе Данных.
+8. Заполняете данные согласно таблицы, что бы настроить подключение к облачной учебной Базе Данных.
 
 Параметр | Значение 
 --- | ---
@@ -62,33 +58,33 @@ http://www.iodbc.org/dataspace/doc/iodbc/wiki/iodbcWiki/Downloads#Stable%20Versi
 
 Нажимаете Test
 
+![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/8.png)
+
+9. Нажимаете Ок и после Сохранить.
+
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/9.png)
 
-10. Нажимаете Ок и после Сохранить.
+10. Нажимаете Ок и окно закроется.
 
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/10.png)
 
-11. Нажимаете Ок и окно закроется.
+11. Открываете Excel, создаете новую Книгу, переходите во вкладку Данные (в старых версиях вкладка Power Query) и нажимаете “Получить данные”
 
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/11.png)
 
-12. Открываете Excel, создаете новую Книгу, переходите во вкладку Данные (в старых версиях вкладка Power Query) и нажимаете “Получить данные”
+12. Далее выбираете “Из других источников” и выбираете “Из ODBC”
 
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/12.png)
 
-13. Далее выбираете “Из других источников” и выбираете “Из ODBC”
+13. Имя источника данных выбираете PostgreSQL и нажимаете Ок.
 
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/13.png)
 
-14. Имя источника данных выбираете PostgreSQL и нажимаете Ок.
+14. Далее еще раз вводите логин и пароль и нажимаете “Подключение”
 
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/14.png)
 
-15. Далее еще раз вводите логин и пароль и нажимаете “Подключение”
+15. Можете раскрыть содержимое Базы Данных. Далее либо преобразуете данные, либо загружаете, в зависимости от задачи.
 
 ![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/15.png)
-
-16. Можете раскрыть содержимое Базы Данных. Далее либо преобразуете данные, либо загружаете, в зависимости от задачи.
-
-![](https://github.com/netology-ds-team/sql-materials/blob/main/sqlfree/odbc/images/16.png)
 
