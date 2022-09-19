@@ -59,7 +59,7 @@
 
 ### Какое программное обеспечение нам потребуется
 
-1. PostgreSQL Server от EDB - <a href="https://www.enterprisedb.com/downloads/postgres-postgresql-downloads" target="_blank">enterprisedb.com</a>
+1. PostgreSQL Server от EDB - [enterprisedb.com](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads){:target="_blank"}
 2. DBeaver - <a href="https://dbeaver.io" target="_blank">dbeaver.io</a>
 3. бекап базы данных dvd - rental - <a href="https://drive.google.com/file/d/1p3CM1Foye-fX695COvfq70YeIRA-a6XR/view?usp=sharingo" target="_blank">dvd-rental</a>
 4. бекап схемы hr (для выполнения 7 занятия) - <a href="https://drive.google.com/file/d/1Cx4yM-boIUVDdc3ExYp8zYsbwH-Wgxh8/view?usp=sharing" target="_blank">hr</a>
