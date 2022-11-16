@@ -129,7 +129,7 @@ DBeaver постоянно обновляется. Сказать точно, к
 
 ![Portable Version (Windows(zip)).](/sql-main/resources/InstallDbeaver/PortableDBeaver.png)
 
-Для запуск Portable-версии нужно разархивировать скачанный zip-архив в удобное для вас место, после чего зайти в папку dbeaver и запустить dbeaver.exe.
+Для запуска Portable-версии нужно разархивировать скачанный zip-архив в удобное для вас место, после чего зайти в папку dbeaver и запустить dbeaver.exe.
 
 ![Запустите dbeaver.exe в разархивированной папке.](/sql-main/resources/InstallDbeaver/PortableDBeaver1.png)
 
