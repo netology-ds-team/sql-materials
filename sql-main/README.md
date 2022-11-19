@@ -64,6 +64,9 @@
 3. Бэкап базы данных dvd-rental — https://drive.google.com/file/d/1p3CM1Foye-fX695COvfq70YeIRA-a6XR/view?usp=sharing.
 4. Бэкап схемы HR (чтобы выполнить задание в 7 занятии) — https://drive.google.com/file/d/1Cx4yM-boIUVDdc3ExYp8zYsbwH-Wgxh8/view?usp=sharing.
 
+#### При работе в PostgreSQL 10 версии нужно работать со следующими резервными копиями:
+1. dvd-rental - https://drive.google.com/file/d/1CSp9YUdct4KX0-44ngm1CcZ9qZVqHHK4/view?usp=sharing.
+2. hr - https://drive.google.com/file/d/1UZzDsRZRRvjFKqlQQqnwbZChuwMVDvFL/view?usp=sharing.
 
 <a name="установка-dbeaver"></a>
 
