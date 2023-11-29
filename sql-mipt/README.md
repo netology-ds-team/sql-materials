@@ -62,7 +62,7 @@
 1. PostgreSQL Server от EDB — https://www.enterprisedb.com/downloads/postgres-postgresql-downloads.
 2. DBeaver — https://dbeaver.io.
 3. Бэкап базы данных dvd-rental — https://drive.google.com/file/d/1p3CM1Foye-fX695COvfq70YeIRA-a6XR/view?usp=sharing.
-4. Бэкап схемы HR (чтобы выполнить задание в 7 занятии) — https://drive.google.com/file/d/1Cx4yM-boIUVDdc3ExYp8zYsbwH-Wgxh8/view?usp=sharing.
+4. Бэкап схемы HR (потребуется для выполнения итогового задания) — https://drive.google.com/file/d/1Cx4yM-boIUVDdc3ExYp8zYsbwH-Wgxh8/view?usp=sharing.
 
 #### При работе в PostgreSQL 10 версии нужно работать со следующими резервными копиями:
 1. dvd-rental - https://drive.google.com/file/d/1CSp9YUdct4KX0-44ngm1CcZ9qZVqHHK4/view?usp=sharing.
