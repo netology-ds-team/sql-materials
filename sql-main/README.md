@@ -199,10 +199,9 @@ DBeaver постоянно обновляется. Сказать точно, к
 Также полный процесс ручной установки PostgreSQL Database Server рассматриваем в видео: https://letsdocode.ru/sql-main/mp4/localserver.mp4
 
 
-<a name="загрузка-базы-из-бэкапа-dvd-rental"></a>
+<a name="загрузка-базы-из-бекапа-dvd-rental"></a>
 
 ### Загрузка базы из бэкапа dvd-rental
-
 
 Запустите DBeaver и нажмите на кнопку «Новое соединение».
 
